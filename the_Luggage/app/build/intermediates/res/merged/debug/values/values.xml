@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_names">
+        <item>"Going To: Peshawar"</item>
+        <item>"Going To: Karachi"</item>
+        <item>"Going To: Lahore"</item>
+        <item>"Going To: Multan"</item>
+        <item>"Going To: Islamabad"</item>
+        <item>"Going To: Faisalabad"</item>
+        <item>"Going To: Rawalpindi"</item>
+        <item>"Going To: Gawadar"</item>
+        <item>"Going To: Swat"</item>
+        <item>"Going To: Nowshehra"</item>
+        <item>"Going To: Quetta"</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="blue">#ff14445a</color>
+    <color name="default_background_label">#ff303030</color>
+    <color name="gray">#21252a</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="orange">#ff8c6a</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="corner_radius_oval">16dp</dimen>
+    <dimen name="height_profile_image">250dp</dimen>
+    <dimen name="height_profile_picture_with_toolbar">320dp</dimen>
+    <dimen name="height_toolbar">70dp</dimen>
+    <dimen name="margin_top_button_message">290dp</dimen>
+    <dimen name="pad_10dp">10dp</dimen>
+    <dimen name="pad_15dp">15dp</dimen>
+    <dimen name="pad_20dp">20dp</dimen>
+    <dimen name="pad_5dp">5dp</dimen>
+    <dimen name="size_button_message">60dp</dimen>
+    <dimen name="text_size_profile_toolbar_title">20sp</dimen>
+    <dimen name="text_size_toolbar_title">25sp</dimen>
+    <dimen name="txt_16sp">16sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="alert_loading">Loading...</string>
+    <string name="alert_wait">Please wait...</string>
+    <string name="all">Todas</string>
+    <string name="all_chats">All Chats</string>
+    <string name="app_name">UserInterfaces</string>
+    <string name="blinds">Persianas</string>
+    <string name="doors">Puertas</string>
+    <string name="edit">Edit</string>
+    <string name="email">Email</string>
+    <string name="err_fields_empty">Please fill all the fields.</string>
+    <string name="err_login">Error occurred while login:</string>
+    <string name="err_singup">Error occurred while signup:</string>
+    <string name="err_users">Error occurred while finding users:</string>
+    <string name="forgot_my_pwd">I’ve forgotten my password?</string>
+    <string name="frontdoor">Puerta principal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="kitchen">Cocina</string>
+    <string name="kitchenovencooktop">Horno</string>
+    <string name="lights">Luggage Carrier</string>
+    <string name="livingroom">Salón</string>
+    <string name="log_in">Log in</string>
+    <string name="lorem_ipsum_long">Contact #: 123456789 \n Email id: xyz@gmail.com \n Host City: Peshawar
+    \n Luggage capacity: 20 KG \n Price: 500 Rs Per 10 KG</string>
+    <string name="lorem_ipsum_short">Hellow, I am available to carry extra luggage, Any interested Person can contact me </string>
+    <string name="menu_settings">Settings</string>
+    <string name="msg_no_user_found">No users found for chat!</string>
+    <string name="my_chats">My Chats</string>
+    <string name="myhome">The Laggage</string>
+    <string name="new_chat">New Chat</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="room">Habitación</string>
+    <string name="search">Search</string>
+    <string name="sinkfridge">Frigorífico</string>
+    <string name="title_activity_blinds">BlindsActivity</string>
+    <string name="title_activity_doors">DoorsActivity</string>
+    <string name="title_activity_lights">LightsActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_following">Destination Information</string>
+    <string name="to">To:</string>
+    <string name="toilet">Baño</string>
+    <string name="toolbar_bio">Information</string>
+    <string name="toolbar_details">Details</string>
+    <string name="tvroom">Sala de TV</string>
+    <string name="username">Username</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="TextViewProfileToolbarTitle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">@dimen/text_size_profile_toolbar_title</item>
+        <item name="android:layout_width">100dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="editext_graybg" parent="android:Widget.EditText">
+        <item name="android:background">@drawable/editext_bg_gray</item>
+        <item name="android:drawablePadding">@dimen/pad_10dp</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">textEmailAddress</item>
+        <item name="android:paddingLeft">@dimen/pad_10dp</item>
+        <item name="android:paddingRight">@dimen/pad_10dp</item>
+        <item name="android:textSize">@dimen/txt_16sp</item>
+    </style>
+</resources>

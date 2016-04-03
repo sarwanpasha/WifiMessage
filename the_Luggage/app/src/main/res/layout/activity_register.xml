@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.root.giveblood.HomeActivity">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/pad_20dp"
+            android:paddingLeft="@dimen/pad_15dp"
+            android:background="@drawable/bloodbackground"
+            android:paddingRight="@dimen/pad_15dp"
+            android:paddingTop="@dimen/pad_20dp" >
+
+            <ImageView
+                android:id="@+id/Image1"
+                style="@style/editext_graybg"
+                android:layout_width="90dp"
+                android:layout_height="150dp"
+                android:background="@drawable/logo11"/>
+
+            <EditText
+                android:id="@+id/email"
+                style="@style/editext_graybg"
+                android:layout_width="wrap_content"
+                android:layout_height="70dp"
+                android:drawableLeft="@drawable/ic_username"
+                android:hint="@string/email"
+                android:inputType="textEmailAddress" >
+
+                <requestFocus />
+            </EditText>
+
+            <EditText
+                android:id="@+id/user"
+                style="@style/editext_graybg"
+                android:layout_width="wrap_content"
+                android:layout_height="70dp"
+                android:layout_marginTop="@dimen/pad_5dp"
+                android:drawableLeft="@drawable/ic_username"
+                android:hint="@string/username" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/pwd"
+                style="@style/editext_graybg"
+                android:layout_width="wrap_content"
+                android:layout_height="70dp"
+                android:layout_marginBottom="@dimen/pad_20dp"
+                android:layout_marginTop="@dimen/pad_5dp"
+                android:drawableLeft="@drawable/ic_pwd"
+                android:hint="@string/password"
+                android:inputType="textPassword" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/bloodgroup"
+                style="@style/editext_graybg"
+                android:layout_width="wrap_content"
+                android:layout_height="70dp"
+                android:layout_marginTop="-15dp"
+                android:drawableLeft="@drawable/ic_username"
+                android:hint="Blood Group" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/city"
+                style="@style/editext_graybg"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_height="70dp"
+                android:drawableLeft="@drawable/ic_username"
+                android:hint="City" >
+            </EditText>
+
+            <LinearLayout
+                android:id="@+id/main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/btnReg"
+                    android:layout_marginLeft="@dimen/pad_10dp"
+                    android:layout_weight="1"
+                    android:text="@string/register"
+                    android:layout_marginTop="15dp"
+
+
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp"
+                    android:layout_width="218dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/buttonshape"
+                    android:shadowColor="#0711A8"
+                    android:shadowDx="0"
+                    android:shadowDy="0"
+                    android:shadowRadius="5" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

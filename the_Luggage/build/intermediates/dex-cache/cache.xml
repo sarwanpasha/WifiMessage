@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_3252b2b0c5bb376d7cc186956797abc7c85a86d5.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/pre-dexed/debug/picasso-2.5.0_77a2819a1657de244ec235498d191d09c8e39919.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/pre-dexed/debug/library-2.4.0_966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+    </item>
+    <item
+        jar="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/libs/Parse-1.5.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3d645417e7780d44f32e29a3ec6b729b75aef26c">
+        <dex dex="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/pre-dexed/debug/Parse-1.5.1_241180755f541b783ceeaf3a1e416037340e0419.jar" />
+    </item>
+    <item
+        jar="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990aaea33c54b40347e1f6243dbf4ae8f1d71d3f">
+        <dex dex="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/pre-dexed/debug/com.github.ozodrukh-CircularReveal-1.0.5_ad4dbd2791bc3e9907119ee5a19bd005f4fe0ae5.jar" />
+    </item>
+    <item
+        jar="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_381411bb6f8b484cc7f3ed736dae6e5c38293a9e.jar" />
+    </item>
+    <item
+        jar="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_76f1a767f350c9bc67e5b6b14744ba64806b4c2b.jar" />
+    </item>
+    <item
+        jar="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/pre-dexed/debug/com.nhaarman.listviewanimations-lib-core-3.1.0_553ed24a205c5fcad642a964a3de30bc435b0305.jar" />
+    </item>
+
+</items>

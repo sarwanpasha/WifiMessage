@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="upm.userinterfaces"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/l1"
+        android:label="The Laggage"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="upm.userinterfaces.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="upm.userinterfaces.LightsActivity"
+            android:label="@string/title_activity_lights"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="upm.userinterfaces.DoorsActivity"
+            android:label="@string/title_activity_doors"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="upm.userinterfaces.BlindsActivity"
+            android:label="@string/title_activity_blinds"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="upm.userinterfaces.SplashActivity"
+            android:label="@string/myhome"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="upm.luggageReciever.Luggage_Main_Activity" />
+        <activity android:name="upm.Upload_User_Detail.Upload_Detail" />
+        <activity android:name="upm.Registration.Login" />
+        <activity android:name="upm.Registration.Register" />
+        <activity android:name="upm.SQL_Lite_Local_Database.AndroidSQLiteTutorialActivity" />
+    </application>
+
+</manifest>

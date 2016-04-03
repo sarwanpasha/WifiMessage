@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_android_sqlite_tutorial.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_android_sqlite_tutorial.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_doors.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_doors.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_luggage__main_.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_luggage__main_.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_upload__detail.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_upload__detail.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/button_round_msg.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/button_round_msg.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_euclid.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_euclid.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_blinds.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_blinds.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/overlay_list_item.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/overlay_list_item.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_lights.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_lights.xml"
+    },
+    {
+        "merged": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/run/media/root/Visual Studio/Android-studio-projects/Linux Projects/Workspace3/the_Luggage/app/src/main/res/layout/activity_splash.xml"
+    }
+]
